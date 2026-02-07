@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiSearch.Core", "src\Wiki
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiSearch.Api", "src\WikiSearch.Api\WikiSearch.Api.csproj", "{C1711135-D395-44A8-BED1-21ACA2812FDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WikiSearch.Indexer", "src\WikiSearch.Indexer\WikiSearch.Indexer.csproj", "{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,18 @@ Global
 		{C1711135-D395-44A8-BED1-21ACA2812FDD}.Release|x64.Build.0 = Release|Any CPU
 		{C1711135-D395-44A8-BED1-21ACA2812FDD}.Release|x86.ActiveCfg = Release|Any CPU
 		{C1711135-D395-44A8-BED1-21ACA2812FDD}.Release|x86.Build.0 = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|x64.Build.0 = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Debug|x86.Build.0 = Debug|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|x64.ActiveCfg = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|x64.Build.0 = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|x86.ActiveCfg = Release|Any CPU
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +64,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{E4522500-E93F-4969-8295-AC4C3866074D} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 		{C1711135-D395-44A8-BED1-21ACA2812FDD} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{72EFFC27-8449-4661-9C8B-D8D2BB7D017B} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
 	EndGlobalSection
 EndGlobal

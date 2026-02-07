@@ -5,3 +5,9 @@
 /.vs/WikiSearch
 /src/WikiSearch.Api/obj
 /src/WikiSearch.Core/obj
+/implementation_plan.md
+/data
+/src/WikiSearch.Indexer/bin/Debug/net9.0
+/src/WikiSearch.Indexer/obj/Debug/net9.0
+/src/WikiSearch.Indexer/obj
+/src/WikiSearch.Core/bin/Debug/net9.0
