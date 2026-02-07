@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WikiSearch
+/src/WikiSearch.Api/obj
+/src/WikiSearch.Core/obj
